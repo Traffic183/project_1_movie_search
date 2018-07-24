@@ -1,0 +1,15 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ml",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "eslint": "^5.2.0"
+  }
+}
